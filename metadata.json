@@ -1,0 +1,6 @@
+{
+  "name": "Madras Syndicate: GTA Chennai",
+  "description": "Open-world top-down vehicular action game set across real-world Chennai streets powered by Google Maps Platform, Routes API, and Places API.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
